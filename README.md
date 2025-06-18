@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEhLYR7f5L7iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737635357076?e=1743033600&v=beta&t=JE8qr7KkRXdqwgNrYnWx0IS_II3ZJAuYhZHp1mzBO6A)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEhLYR7f5L7iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737635357076?e=1755734400&v=beta&t=Q3lEpai2fLCtwvVKW4FMCsSXx-naSsIlAxsuRcuhWnU)
 
 <h1 align="center">Hi 👋, I'm Gadir Babayev</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
